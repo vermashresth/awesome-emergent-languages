@@ -15,14 +15,14 @@ Most of these works explore emergent languages in referential game setting.
   * [Communication Effectiveness](https://github.com/vermashresth/awesome-emergent-languages#Communication-Effectiveness)
   * [Compositionality](https://github.com/vermashresth/awesome-emergent-languages#compositionality)
   * [Language Drift](https://github.com/vermashresth/awesome-emergent-languages#language-drift)
+  * [Misc](https://github.com/vermashresth/awesome-emergent-languages#misc)
 * [Emergent Language in Populations](https://github.com/vermashresth/awesome-emergent-languages#Emergent-Language-in-Populations)
 * [Priors and Biases in Emergent Language](https://github.com/vermashresth/awesome-emergent-languages#Priors-and-Biases-in-Emergent-Language)
 * [Shortcomings of Emergent Language](https://github.com/vermashresth/awesome-emergent-languages#Shortcomings-of-Emergent-Language)
 * [Applications of Emergent Language](https://github.com/vermashresth/awesome-emergent-languages#Applications-of-Emergent-Language)
 * [Frameworks](https://github.com/vermashresth/awesome-emergent-languages#frameworks)
 
-### Complete List
-[Complete List](https://github.com/vermashresth/awesome-emergent-languages#tutorial-and-books)
+### [Complete List](https://github.com/vermashresth/awesome-emergent-languages#complete-list)
 
 
 
