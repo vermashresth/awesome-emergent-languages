@@ -119,6 +119,46 @@ Most of these works explore emergent languages in referential game setting.
  * Compositional Obverter Communication Learning From Raw Visual Input | ICLR 2018
  
     * Edward Choi, Angeliki Lazaridou, Nando de Freitas | [paper](https://arxiv.org/abs/1804.02341)
- * 
-
+ * Measuring Compositionality in Representation Learning | ICLR 2019
+ 
+    * Jacob Andreas | [paper](https://arxiv.org/abs/1902.07181)
+ * Compositionality and Generalization in Emergent Languages | ACL 2020
+ 
+    * Rahma Chaabouni, Eugene Kharitonov, Diane Bouchacourt, Emmanuel Dupoux, Marco Baroni | [paper](https://arxiv.org/abs/2004.09124)
+ * Emergence of Grounded Compositional Language in Multi-Agent Populations | AAAI 2018
+ 
+    * Igor Mordatch, Pieter Abbeel | [paper](https://arxiv.org/abs/1703.04908)
+ * Ease-of-Teaching and Language Structure from Emergent Communication | NeurIPS 2019
+ 
+    * Fushan Li, Michael Bowling | [paper](https://arxiv.org/abs/1906.02403)
+ * Compositional Languages Emerge in a Neural Iterated Learning Model | ICLR 2020
+ 
+    * Yi Ren, Shangmin Guo, Matthieu Labeau, Shay B. Cohen, Simon Kirby | [paper](https://arxiv.org/abs/2002.01365)
+ * Shaping representations through communication: community size effect in artificial learning systems | NeurIPS 2019 workshop on visually grounded interaction and language
+ 
+    * Olivier Tieleman, Angeliki Lazaridou, Shibl Mourad, Charles Blundell, Doina Precup | [paper](https://arxiv.org/abs/1912.06208)
+ *  Biases for Emergent Communication in Multi-agent Reinforcement Learning | NeurIPS 2019
+ 
+    * Tom Eccles, Yoram Bachrach, Guy Lever, Angeliki Lazaridou, Thore Graepel | [paper](https://arxiv.org/abs/1912.05676)
+ * Word-order Biases in Deep-agent Emergent Communication | ACL 2019
+ 
+    * Rahma Chaabouni, Eugene Kharitonov, Alessandro Lazaric, Emmanuel Dupoux, Marco Baroni | [paper](https://arxiv.org/abs/1905.12330)
+ * Countering Language Drift via Visual Grounding | EMNLP 2019
+ 
+    * Jason Lee, Kyunghyun Cho, Douwe Kiela | [paper](https://arxiv.org/abs/1909.04499)
+ *  Countering Language Drift with Seeded Iterated Learning | ICML 2020
+    
+    * Yuchen Lu, Soumye Singhal, Florian Strub, Olivier Pietquin, Aaron Courville | [paper](https://arxiv.org/abs/2003.12694)
+ * Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning | ACL 2020
+ 
+    * Angeliki Lazaridou, Anna Potapenko, Olivier Tieleman | [paper](https://arxiv.org/abs/2005.07064)
+ * On the interaction between supervision and self-play in emergent communication | ICLR 2020
+    
+    * Ryan Lowe, Abhinav Gupta, Jakob Foerster, Douwe Kiela, Joelle Pineau | [paper](https://arxiv.org/abs/2002.01093)
+ * Learning to learn to communicate | ICML 2019 Workshop on Adaptive and Multitask learning
+ 
+    * Ryan Lowe, Abhinav Gupta, Jakob Foerster, Douwe Kiela, Joelle Pineau | [paper](https://openreview.net/forum?id=rkxJrcHo2V)
+ * To Populate is To Regulate | NeurIPS 2019 Emergent Communication Workshop 
+   
+    * Nicole Fitzgerald | [paper](https://arxiv.org/abs/1911.04362)
 
