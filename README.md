@@ -1,4 +1,5 @@
-# Paper Collection and summary on Emergent Languages through Multi-Agent Reinforcement Learning 
+# Emergent Languages
+## Paper Collection and Summaries
 
 Emergent Languages is a very interesting research area to study how languages emerge artificially, what properties they showcase and whether the functional nature of language and communication can be used to improve upon
 otherwise supervised learning setting for natural language tasks. This area has strong connections with Computational Linguisics, Artificial Intelligence, Cognitive Science and Behaviourial Theory.
