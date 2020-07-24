@@ -76,6 +76,9 @@ Most of these works explore emergent languages in referential game setting.
  * Compositional Languages Emerge in a Neural Iterated Learning Model | ICLR 2020
  
     * Yi Ren, Shangmin Guo, Matthieu Labeau, Shay B. Cohen, Simon Kirby | [paper](https://arxiv.org/abs/2002.01365)
+ * Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog | EMNPLP 2017
+ 
+    * Satwik Kottur, José Moura, Stefan Lee, Dhruv Batra | [paper](https://arxiv.org/abs/1706.08502)
  * Capacity, Bandwidth, and Compositionality in Emergent Language Learning | AAMAS 2020
  
     * Cinjon Resnick, Abhinav Gupta, Jakob Foerster, Andrew M. Dai, Kyunghyun Cho | [paper](https://arxiv.org/abs/1910.11424)
