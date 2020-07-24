@@ -53,17 +53,107 @@ Most of these works explore emergent languages in referential game setting.
     * Shresth Verma, Joydip Dhar | [paper](https://arxiv.org/abs/1910.00741)
 ### Exploring Linguistic Properties
 #### Communication Effectiveness
+ * On the Pitfalls of Measuring Emergent Communication | AAMAS 2019
+ 
+    * Ryan Lowe, Jakob Foerster, Y-Lan Boureau, Joelle Pineau, Yann Dauphin | [paper](https://arxiv.org/abs/1903.05168)
+ * Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning | ICML 2019
+ 
+    * Natasha Jaques, Angeliki Lazaridou, Edward Hughes, Caglar Gulcehre, Pedro A. Ortega, DJ Strouse, Joel Z. Leibo, Nando de Freitas | [paper](https://arxiv.org/abs/1810.08647)
 #### Compositionality
+ * Compositional Obverter Communication Learning From Raw Visual Input | ICLR 2018
+ 
+    * Edward Choi, Angeliki Lazaridou, Nando de Freitas | [paper](https://arxiv.org/abs/1804.02341)
+ * Measuring Compositionality in Representation Learning | ICLR 2019
+ 
+    * Jacob Andreas | [paper](https://arxiv.org/abs/1902.07181)
+ * Compositionality and Generalization in Emergent Languages | ACL 2020
+ 
+    * Rahma Chaabouni, Eugene Kharitonov, Diane Bouchacourt, Emmanuel Dupoux, Marco Baroni | [paper](https://arxiv.org/abs/2004.09124)
+ * Emergence of Grounded Compositional Language in Multi-Agent Populations | AAAI 2018
+ 
+    * Igor Mordatch, Pieter Abbeel | [paper](https://arxiv.org/abs/1703.04908)
+ * Compositional Languages Emerge in a Neural Iterated Learning Model | ICLR 2020
+ 
+    * Yi Ren, Shangmin Guo, Matthieu Labeau, Shay B. Cohen, Simon Kirby | [paper](https://arxiv.org/abs/2002.01365)
+ * Capacity, Bandwidth, and Compositionality in Emergent Language Learning | AAMAS 2020
+ 
+    * Cinjon Resnick, Abhinav Gupta, Jakob Foerster, Andrew M. Dai, Kyunghyun Cho | [paper](https://arxiv.org/abs/1910.11424)
+ * Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols | NIPS 2017
+ 
+    * Serhii Havrylov, Ivan Titov | [paper](https://arxiv.org/abs/1705.11192)
+ * Emergence of Linguistic Communication from Referential Games with Symbolic and Pixel Input | ICLR 2018
+ 
+    * Angeliki Lazaridou, Karl Moritz Hermann, Karl Tuyls, Stephen Clark | [paper](https://arxiv.org/abs/1804.03984)
+    
 #### Language Drift
-
+ * Countering Language Drift via Visual Grounding | EMNLP 2019
+ 
+    * Jason Lee, Kyunghyun Cho, Douwe Kiela | [paper](https://arxiv.org/abs/1909.04499)
+ *  Countering Language Drift with Seeded Iterated Learning | ICML 2020
+    
+    * Yuchen Lu, Soumye Singhal, Florian Strub, Olivier Pietquin, Aaron Courville | [paper](https://arxiv.org/abs/2003.12694)
+ * Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning | ACL 2020
+ 
+    * Angeliki Lazaridou, Anna Potapenko, Olivier Tieleman | [paper](https://arxiv.org/abs/2005.07064)
+#### Misc
+* Emergence of Communication in an Interactive World with Consistent Speakers | NeurIPS 2018 Emergent Language Workshop 
+    
+    * Ben Bogin, Mor Geva, Jonathan Berant | [paper](https://arxiv.org/abs/1809.00549)
+ * Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog | EMNPLP 2017
+ 
+    * Satwik Kottur, José Moura, Stefan Lee, Dhruv Batra | [paper](https://arxiv.org/abs/1706.08502)
+ * How agents see things: On visual representations in an emergent language game | EMNLP 2018
+ 
+    * Diane Bouchacourt, Marco Baroni | [paper](https://arxiv.org/abs/1808.10696)
+ * Entropy Minimization In Emergent Languages | ICML 2020
+ 
+    * Eugene Kharitonov, Rahma Chaabouni, Diane Bouchacourt, Marco Baroni | [paper](https://arxiv.org/abs/1905.13687)
+ * Anti-efficient encoding in emergent communication | NeurIPS 2019
+ 
+    * Rahma Chaabouni, Eugene Kharitonov, Emmanuel Dupoux, Marco Baroni | [paper](https://arxiv.org/abs/1905.12561)
 ### Emergent Language in Populations
-
+ * To Populate is To Regulate | NeurIPS 2019 Emergent Communication Workshop 
+   
+    * Nicole Fitzgerald | [paper](https://arxiv.org/abs/1911.04362)
+ * Shaping representations through communication: community size effect in artificial learning systems | NeurIPS 2019 workshop on visually grounded interaction and language
+ 
+    * Olivier Tieleman, Angeliki Lazaridou, Shibl Mourad, Charles Blundell, Doina Precup | [paper](https://arxiv.org/abs/1912.06208)
+ * Ease-of-Teaching and Language Structure from Emergent Communication | NeurIPS 2019
+ 
+    * Fushan Li, Michael Bowling | [paper](https://arxiv.org/abs/1906.02403)
+ * Compositional Languages Emerge in a Neural Iterated Learning Model | ICLR 2020
+ 
+    * Yi Ren, Shangmin Guo, Matthieu Labeau, Shay B. Cohen, Simon Kirby | [paper](https://arxiv.org/abs/2002.01365)
+ * Emergence of Grounded Compositional Language in Multi-Agent Populations | AAAI 2018
+ 
+    * Igor Mordatch, Pieter Abbeel | [paper](https://arxiv.org/abs/1703.04908)
+ * Emergent Linguistic Phenomena in Multi-Agent Communication Games | EMNLP 2019
+ 
+    * Laura Graesser, Kyunghyun Cho, Douwe Kiela | [paper](https://arxiv.org/abs/1901.08706)
 ### Priors and Biases in Emergent Language
-
+ *  Biases for Emergent Communication in Multi-agent Reinforcement Learning | NeurIPS 2019
+ 
+    * Tom Eccles, Yoram Bachrach, Guy Lever, Angeliki Lazaridou, Thore Graepel | [paper](https://arxiv.org/abs/1912.05676)
+ * Word-order Biases in Deep-agent Emergent Communication | ACL 2019
+ 
+    * Rahma Chaabouni, Eugene Kharitonov, Alessandro Lazaric, Emmanuel Dupoux, Marco Baroni | [paper](https://arxiv.org/abs/1905.12330)
 ### Shortcomings of Emergent Language
-
+ * On the Pitfalls of Measuring Emergent Communication | AAMAS 2019
+ 
+    * Ryan Lowe, Jakob Foerster, Y-Lan Boureau, Joelle Pineau, Yann Dauphin | [paper](https://arxiv.org/abs/1903.05168)(https://arxiv.org/abs/1810.08647)
+ * How agents see things: On visual representations in an emergent language game | EMNLP 2018
+ 
+    * Diane Bouchacourt, Marco Baroni | [paper](https://arxiv.org/abs/1808.10696)
+ * Entropy Minimization In Emergent Languages | ICML 2020
+ 
+    * Eugene Kharitonov, Rahma Chaabouni, Diane Bouchacourt, Marco Baroni | [paper](https://arxiv.org/abs/1905.13687)
+ * Anti-efficient encoding in emergent communication | NeurIPS 2019
+ 
+    * Rahma Chaabouni, Eugene Kharitonov, Emmanuel Dupoux, Marco Baroni | [paper](https://arxiv.org/abs/1905.12561)
 ### Applications of Emergent Language
-
+ * Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning | ACL 2020
+ 
+    * Angeliki Lazaridou, Anna Potapenko, Olivier Tieleman | [paper](https://arxiv.org/abs/2005.07064)
 ### Frameworks
 
 ## Complete List
@@ -161,4 +251,7 @@ Most of these works explore emergent languages in referential game setting.
  * To Populate is To Regulate | NeurIPS 2019 Emergent Communication Workshop 
    
     * Nicole Fitzgerald | [paper](https://arxiv.org/abs/1911.04362)
+ * Emergent Language Generalization and Acquisition Speed are not tied to Compositionality | Arxiv 2020
+ * Biology and Compositionality: Empirical Considerations for Emergent-Communication Protocols | NeurIPS emergent Commm workshop 2019
+ 
 
