@@ -82,6 +82,9 @@ Most of these works explore emergent languages in referential game setting.
  * Capacity, Bandwidth, and Compositionality in Emergent Language Learning | AAMAS 2020
  
     * Cinjon Resnick, Abhinav Gupta, Jakob Foerster, Andrew M. Dai, Kyunghyun Cho | [paper](https://arxiv.org/abs/1910.11424)
+ * Ease-of-Teaching and Language Structure from Emergent Communication | NeurIPS 2019
+ 
+    * Fushan Li, Michael Bowling | [paper](https://arxiv.org/abs/1906.02403)
  * Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols | NIPS 2017
  
     * Serhii Havrylov, Ivan Titov | [paper](https://arxiv.org/abs/1705.11192)
