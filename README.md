@@ -287,6 +287,9 @@ Most of these works explore emergent languages in referential game setting.
  * Emergent Communication under Varying Sizes and Connectivities | NeurIPS 2021
     * Jooyeon Kim, Alice Oh | [paper](https://openreview.net/forum?id=iqpFcg2TAa0)
 
+ * Emergent communication at scale | ICLR 2022
+    * Rahma Chaabouni, Florian Strub, Florent Altché, Eugene Tarassov, Corentin Tallec, Elnaz Davoodi, Kory Wallace Mathewson, Olivier Tieleman, Angeliki Lazaridou, Bilal Piot | [paper](https://openreview.net/forum?id=AUGBfDIV9rL)
+
 
  
 
