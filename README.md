@@ -261,4 +261,32 @@ Most of these works explore emergent languages in referential game setting.
  * Emergent Language Generalization and Acquisition Speed are not tied to Compositionality | Arxiv 2020
  * Biology and Compositionality: Empirical Considerations for Emergent-Communication Protocols | NeurIPS emergent Commm workshop 2019
  
+ * Few-shot Language Coordination by Modeling Theory of Mind| ICML 2021 
+ 
+    * Hao Zhu, Graham Neubig, Yonatan Bisk | [paper](http://proceedings.mlr.press/v139/zhu21d.html)
+ 
+ * Interpretable agent communication from scratch (with a generic visual processor emerging on the side) | NeurIPS 2021 
+ 
+    * Roberto_Dessi, Eugene Kharitonov, Marco Baroni | [paper](https://openreview.net/forum?id=1AvtkM4H-y7)
+  
+ * The Grammar of Emergent Languages | EMNLP 2020
+ 
+    * Oskar van der Wal, Silvan de Boer, Elia Bruni, Dieuwke Hupkes | [paper](https://aclanthology.org/2020.emnlp-main.270.pdf)
+ * Emergent Communication under Competition | AAMAS 2021
+    * Michael Noukhovitch, Travis LaCroix, Angeliki Lazaridou, Aaron Courville | [paper](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p974.pdf)
+
+ * Emergent Discrete Communication in Semantic Spaces | NeurIPS 2021
+    * Mycal Tucker, Huao Li, Siddharth Agrawal, Dana Hughes, Katia P. Sycara, Michael Lewis, Julie Shah | [paper](https://openreview.net/forum?id=hsqZ5v8PFyQ)
+
+ * Learning to Draw: Emergent Communication through Sketching | NeurIPS 2021
+    * Daniela Mihai, Jonathon Hare | [paper](https://openreview.net/forum?id=YIyYkoJX2eA)
+
+ * Emergent Communication of Generalizations | NeurIPS 2021
+    * Jesse Mu, Noah Goodman | [paper](https://openreview.net/forum?id=yq5MYHVaClG)
+
+ * Emergent Communication under Varying Sizes and Connectivities | NeurIPS 2021
+    * Jooyeon Kim, Alice Oh | [paper](https://openreview.net/forum?id=iqpFcg2TAa0)
+
+
+ 
 
